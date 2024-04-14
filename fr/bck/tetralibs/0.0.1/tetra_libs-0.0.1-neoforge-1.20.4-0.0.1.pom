@@ -17,7 +17,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Package Registry</name>
-            <url>https://maven.pkg.github.com/votreutilisateur/votrereférentiel</url>
+            <url>https://maven.pkg.github.com/Blaackknight/votrereférentiel</url>
         </repository>
     </distributionManagement>
     
